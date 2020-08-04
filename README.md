@@ -17,9 +17,9 @@
 
 
 
-# download-file-auto
+# downloadify
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/download-file-auto.svg)](https://www.npmjs.com/package/download-file-auto) [![Downloads](https://img.shields.io/npm/dt/download-file-auto.svg)](https://www.npmjs.com/package/download-file-auto) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/downloadify.svg)](https://www.npmjs.com/package/downloadify) [![Downloads](https://img.shields.io/npm/dt/downloadify.svg)](https://www.npmjs.com/package/downloadify) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -51,10 +51,10 @@
 
 ```sh
 # Using npm
-npm install --save download-file-auto
+npm install --save downloadify
 
 # Using yarn
-yarn add download-file-auto
+yarn add downloadify
 ```
 
 
@@ -74,7 +74,7 @@ yarn add download-file-auto
 
 
 ```js
-const downloadFileAuto = require("download-file-auto");
+const downloadFileAuto = require("downloadify");
 
 // Even if the url does not has an extension,
 // the extension will be detected using the content-type header

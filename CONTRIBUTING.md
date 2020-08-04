@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/download-file-auto/issues
+[1]: https://github.com/IonicaBizau/downloadify/issues
 
 [2]: https://github.com/IonicaBizau/code-style
