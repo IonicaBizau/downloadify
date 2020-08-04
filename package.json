@@ -41,5 +41,8 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/download-file-auto/issues"
+  },
+  "dependencies": {
+    "mime": "^2.4.6"
   }
 }
