@@ -1,5 +1,5 @@
 {
-  "name": "download-file-auto",
+  "name": "downloadify",
   "description": "Download files and set the extension automatically",
   "keywords": [
     "download",
@@ -13,13 +13,13 @@
     "automatically"
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
-  "homepage": "https://github.com/IonicaBizau/download-file-auto#readme",
+  "homepage": "https://github.com/IonicaBizau/downloadify#readme",
   "files": [
     "bin/",
     "app/",
@@ -37,10 +37,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/download-file-auto.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/downloadify.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/download-file-auto/issues"
+    "url": "https://github.com/IonicaBizau/downloadify/issues"
   },
   "dependencies": {
     "mime": "^2.4.6"
