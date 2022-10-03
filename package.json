@@ -19,6 +19,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "contributors": [
+    "Patchara Suwanbordin <pepatcha_@hotmail.com> (https://pepatcha.com)"
+  ],
   "homepage": "https://github.com/IonicaBizau/downloadify#readme",
   "files": [
     "bin/",
